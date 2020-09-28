@@ -26,3 +26,9 @@ The file content must be a simple string in a text file. The file may or may not
 ```
 
 It is recommended to only use non-beta releases in an `.flutter-version` file to have fully reproducible builds that you'll be able to run in a few years also (we hope).
+
+# Flutter Version Manager
+
+We suggest using a version manager so you can easily siwtch between flutter versions in your projects.
+
+You can use something like: [FVM](https://github.com/leoafarias/fvm)
