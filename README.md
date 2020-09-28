@@ -1,7 +1,7 @@
 # `.flutter-version`
 
 ## Introduction
-This is a proposal for a standar in our Flutter pojects: a text-based file that defines the Flutter version that should be used to compile a given Flutter project.
+This is a proposal for a standard in our Flutter pojects: a text-based file that defines the Flutter version that should be used to compile a given Flutter project.
 
 ## File name
 
